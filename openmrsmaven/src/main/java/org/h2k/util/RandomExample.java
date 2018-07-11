@@ -8,7 +8,7 @@ public class RandomExample {
 		
 		Random rnd = new Random();
 		//3 digit random
-		int i = 99+rnd.nextInt(100);
+		int i = 999+rnd.nextInt(100);
 		System.out.println(i);
 		
 		//ASCII
